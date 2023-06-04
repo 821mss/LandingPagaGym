@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 70px;
+}
+.contenedor{
+text-align: center;
+
+}
+.contenedoritems{
+    display:flex;
+    justify-content: center;
+
+}
+img{
+    height: 500px;
+    margin-top: 20px;
+}
+.items{
+}
+.itemsP{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 300px;
+}
+.itemsP1{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    width: 300px;
+}
+button{
+    margin-top: 30px;
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+    font-size: 25px;
+    background-color: rgb(232, 86, 23);
+    height: 60px;
+    width: 200px;
+    border-radius: 2px;
+    border: transparent;
+    font-family: 'Anton', sans-serif;
+}

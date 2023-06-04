@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+.contenedorItems{
+    padding-top: 50px;
+    height: 400px;
+    width: 500px;
+    text-align: left;
+}
+p{
+    color: rgb(113, 113, 113);
+}
+h1{
+    font-size: 60px;
+    font-family: 'Anton', sans-serif;
+}
+button{
+    margin-top: 30px;
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+    font-size: 25px;
+    background-color: rgb(232, 86, 23);
+    height: 60px;
+    width: 200px;
+    border-radius: 2px;
+    border: transparent;
+    font-family: 'Anton', sans-serif;
+}
+.contenedorItemsimg img{
+    margin-left: 100px;
+    height: 400px;
+    width: 500px;
+}
